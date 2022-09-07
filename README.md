@@ -1,16 +1,26 @@
-### Hi there 👋
+## about me
+    Lu, 18, she/they/ae, Abinary and Omnisexual
 
-<!--
-**EthernalRaine/EthernalRaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## nice ascii art
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                              ,
+                              \`-,
+                              |   `\
+                              |     \
+                           __/.- - -.\,__
+                      _.-'`              `'"'--..,__
+                  .-'`                              `'--.,_
+               .'`   _                         _ ___       `)
+             .'   .'` `'-.                    (_`  _`)  _.-'
+           .'    '--.     '.                 .-.`"`@ .-'""-,
+  .------~'     ,.---'      '-._      _.'   /   `'--'"""".-'
+/`        '   /`  _,..-----.,__ `''''`/    ;__,..--''--'`
+`'--.,__ '    |-'`             `'---'|     |
+        `\    \                       \   /
+         |     |                       '-'
+          \    |
+           `\  |
+             \/
+```
+*credits to jgs for the art*
