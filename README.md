@@ -1,5 +1,5 @@
 ## about me
-    Lu, 18, she/they/ae, Abinary and Omnisexual
+    Lu, 18, she/they/xe/ae, Abinary and Omnisexual
 
 ## nice ascii art
 ```
