@@ -1,5 +1,6 @@
 ## about me
     Lu, 18, she/they/xe/ae, Trans Non-Binary and Omnisexual
+    https://pronouns.page/@ethernalraine
 
 ## nice ascii art
 ```
