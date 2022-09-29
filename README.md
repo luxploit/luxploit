@@ -1,5 +1,5 @@
 ## about me
-    Lu, 17, she/they/xe/ae, Trans Non-Binary and Omnisexual
+    Lu, 17, she/they/xe/ae, Trans (MtF) Non-Binary and Omnisexual
     https://pronouns.page/@ethernalraine
 
 ## nice ascii art
