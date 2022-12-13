@@ -1,6 +1,6 @@
 ## about me
     Lu, 17, she/they/xe/ae, Trans (MtF) and Omnisexual
-    Chain Smoker, currently single and enrolled for a degree in IT
+    Chain Smoker, IT undergrad, Lonely Fuck
     https://pronouns.page/@ethernalraine
 
 ## nice ascii art
