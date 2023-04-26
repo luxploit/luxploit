@@ -1,7 +1,7 @@
 ## about me
     Lu, 17, she/they/xe/ae, Trans (MtF) and Omnisexual
     Chain Smoker, IT undergrad, Lonely Fuck
-    https://pronouns.page/@ethernalraine
+    https://spacehey.com/lnkexploit
 
 ## nice ascii art
 ```
