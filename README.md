@@ -1,5 +1,5 @@
 ## about me
-    Lu, 17, she/they and Trans (MtF)
+    Lu, 18, she/they and Trans (MtF)
     Chain Smoking IT Undergrad and Satanist
     https://spacehey.com/lnkexploit
 
