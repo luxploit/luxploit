@@ -1,22 +1,12 @@
 ## about me
     Laura, 18, she/they and Trans (MtF)
-    Chain Smoking IT Undergrad and Satanist
-    https://spacehey.com/lnkexploit
+    Full-Stack Engineer (working in B2B)
+    Self-taught, ~6yrs of experience
 
-## i'll leave with you with something nice to look at
-```⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⡀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣈⡛⣿⡟⠁⢀⣀⠀
-⠀⠀⠀⢰⡄⠀⠀⠀⠀⠀⢸⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠿⠾⣷⣾⠿⠃⠀
-⠀⠀⠀⠈⣿⣦⡀⠀⠀⠀⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀
-⠀⠀⠀⠀⣿⣿⣿⣦⡀⠀⣿⣿⣿⣧⡀⠀⠀⠀⠀⢀⣤⣤⣤⣀⡀⠛⠀⠀⠀⠀
-⠀⠀⠀⠀⠘⣿⣿⣿⣿⣶⣄⠙⠻⠿⣷⡀⠀⠀⢀⣿⣿⣿⣿⣿⡿⠶⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣶⣦⣤⣤⣤⣤⣾⣿⣿⡏⠉⠀⣤⠄⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠉⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⣼⣷⣶⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢻⣿⣿⣿⣿⣿⠿⠟⠛⠛⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠘⢿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+## find me
+    SpaceHey   - https://spacehey.com/lnkexploit
+    Discord    - @eternally_abby
+    Homepage   - https://luxploit.net (Coming Soon)
+    Git Server - https://dev.luxploit.net
+
+    
