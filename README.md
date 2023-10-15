@@ -8,5 +8,6 @@
     Discord    - @eternally_abby
     Homepage   - https://luxploit.net (Coming Soon)
     Git Server - https://dev.luxploit.net
+    Twitter/X  - https://twitter.com/luxploit
 
     
