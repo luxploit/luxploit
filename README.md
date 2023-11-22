@@ -5,7 +5,7 @@
 
 ## find me
     SpaceHey   - https://spacehey.com/lnkexploit
-    Discord    - @eternally_abby
+    Discord    - @luxploit.net
     Homepage   - https://luxploit.net (Coming Soon)
     Git Server - https://dev.luxploit.net
     Twitter/X  - https://twitter.com/luxploit
