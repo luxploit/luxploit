@@ -4,10 +4,8 @@
     Self-taught, ~6yrs of experience
 
 ## find me
-    SpaceHey   - https://spacehey.com/lnkexploit
     Discord    - @luxploit.net
+    SpaceHey   - https://spacehey.com/lnkexploit
     Homepage   - https://luxploit.net (Coming Soon)
     Git Server - https://dev.luxploit.net
     Twitter/X  - https://twitter.com/luxploit
-
-    
