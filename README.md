@@ -7,5 +7,5 @@
     Discord    - @luxploit.net
     SpaceHey   - https://spacehey.com/lnkexploit
     Homepage   - https://luxploit.net (Coming Soon)
-    Git Server - https://dev.luxploit.net
+    Git Server - https://dev.luxploit.net / https://scm.luxploit.net
     Twitter/X  - https://twitter.com/luxploit
