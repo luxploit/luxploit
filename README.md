@@ -1,11 +1,11 @@
 ## about me
-    Laura, 18, she/they and Trans (MtF)
-    Full-Stack Engineer (working in B2B)
+    Laura/Ava, she/they/xe and Trans 
+    Game Engine Dev (formerly Full-Stack)
     Self-taught, ~6yrs of experience
 
 ## find me
     Discord    - @luxploit.net
     SpaceHey   - https://spacehey.com/lnkexploit
     Homepage   - https://luxploit.net (Coming Soon)
-    Git Server - https://dev.luxploit.net / https://scm.luxploit.net
+    Bluesky    - @luxploit.net
     Twitter/X  - https://twitter.com/luxploit
