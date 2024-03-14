@@ -7,5 +7,5 @@
     Discord    - @luxploit.net
     SpaceHey   - https://spacehey.com/lnkexploit
     Homepage   - https://luxploit.net (Coming Soon)
-    Bluesky    - @luxploit.net
+    Bluesky    - https://bsky.app/profile/luxploit.net
     Twitter/X  - https://twitter.com/luxploit
