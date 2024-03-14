@@ -1,5 +1,5 @@
 ## about me
-    Laura/Ava, she/they/xe and Trans 
+    Laura/Ava, she/they and Trans 
     Game Engine Dev (formerly Full-Stack)
     Self-taught, ~6yrs of experience
 
