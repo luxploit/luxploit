@@ -1,6 +1,6 @@
 ## about me
     Laura/Ava, she/they and Trans 
-    Game Engine Dev (formerly Full-Stack)
+    mostly Backend Developer
     Self-taught, ~6yrs of experience
 
 ## find me
