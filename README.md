@@ -4,5 +4,6 @@
     Self-taught, ~7yrs of experience
 
 ## contact me
-    Discord - @luxploit.net
-    E-Mail  - laura@luxploit.net
+    Discord  - @luxploit.net
+    E-Mail   - laura@luxploit.net
+    LinkedIn - linkedin.luxploit.net
